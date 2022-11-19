@@ -1,4 +1,4 @@
-# tarea_6
+# PROYECTO SEMESTRAL
 
 ## Project setup
 ```
